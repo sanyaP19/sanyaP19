@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sanyaP19
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning C language
+- 📫 How to reach me : sanyapandey456@gmail.com
+- 📍 Bhimtal,Nainital,Uttrakhand
