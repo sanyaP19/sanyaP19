@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanyaP19
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C language
-- 📫 How to reach me : sanyapandey456@gmail.com
+- 🌱 I have learnt Java, C, C++, Python, HTML, CSS, OOPs Concepts
+- 📫 How to reach me : sanyapandey190@gmail.com
 - 📍 Bhimtal,Nainital,Uttrakhand
